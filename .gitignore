@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 
 # Configuration things to not commit API keys/location
-Clock/Api-Keys.py
+Clock/tests/files/*
+Clock/ApiKeys.py
 Clock/Config.py
 
 # From testing
@@ -19,7 +20,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
