@@ -69,3 +69,6 @@ Thumbs.db
 
 # Virtual Environment
 .venv
+
+# Cache directory
+Clock/.cache
